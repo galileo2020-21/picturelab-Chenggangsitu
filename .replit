@@ -1,0 +1,2 @@
+language = "java10"
+run = "echo 'Please see README.md for instructions on how to run your files.'"
